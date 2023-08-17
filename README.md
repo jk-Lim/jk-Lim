@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jk-Lim/jk-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90&desc=jk-Lim%20GitHub&descSize=30&descAlign=65&descAlignY=61)
+
+
