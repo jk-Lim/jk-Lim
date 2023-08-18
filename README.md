@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <!-- 뱃지 만들기 
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 
+
+
 <div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center> 
@@ -47,4 +49,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <br>
+
+<div align=center><h2>⚽ About Me ⚽</h2></div>
+<div align=center> 
+  <a href="https://velog.io/@jaekyu_lim">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
+  </a>
   <br>
