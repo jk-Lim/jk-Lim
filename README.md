@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 
 <div align=left><h2>✔ Project </h2></div>
-https://github.com/nbac406/battleGround
+🔗https://github.com/nbac406/battleGround
 
 <div align=center><h2>📚 STACKS</h2></div>
 
