@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🔗 https://github.com/nbac406/battleGround
 
 > **배틀그라운드 Open API를 이용하여 유저 정보제공 및 전적 정보 제공 기능 서비스** <br>
-> `사용 stack : Django, Nginx, Gunicon, Mysql, GCP, Airflow, Hadoop, Spark`
+> `사용 stack : Mysql, GCP, Airflow, Hadoop, Spark, Django, Nginx, Gunicon,`
 
 🔗 https://github.com/jk-Lim/Dalmstar
 
