@@ -25,7 +25,13 @@ Here are some ideas to get you started:
 <div align=left><h2>✔ Project </h2></div>
 🔗 https://github.com/nbac406/battleGround
 
+> **배틀그라운드 Open API를 이용하여 유저 정보제공 및 전적 정보 제공 기능 서비스** <br>
+> `사용 stack : Django, Nginx, Gunicon, Mysql, GCP, Airflow, Hadoop, Spark`
+
 🔗 https://github.com/jk-Lim/Dalmstar
+
+> **CNN 기법을 사용해 사용자의 사진을 입력받아 모델이 학습한 연예인 범주 중 닮은꼴 제공 서비스** <br>
+> `사용 stack : Django, WSL, AWS`
 
 <div align=center><h2>📚 STACKS</h2></div>
 
